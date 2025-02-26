@@ -122,6 +122,16 @@
     padding-right: 48px;
     padding-bottom: 24px;
     padding-left: 48px;
-    
+}
 
+.design{
+    color: #fec3c7;
+}
+
+.create{
+    color: #9ad7f3;
+}
+
+.inspire{
+    color: #6bdfda;
 }
